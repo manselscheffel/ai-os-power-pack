@@ -1,0 +1,16 @@
+{
+  "name": "ai-os-power-pack",
+  "description": "AI OS Power Pack — Business automation skills for Claude Code and Cowork.",
+  "owner": {
+    "name": "Mansel Scheffel",
+    "email": "mansel@atomicops.com"
+  },
+  "plugins": [
+    {
+      "name": "ai-os-power-pack",
+      "source": ".",
+      "description": "Email digest, lead research, Telegram bot, slide generation, and memory management.",
+      "version": "1.0.0"
+    }
+  ]
+}
